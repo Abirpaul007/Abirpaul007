@@ -1,4 +1,4 @@
-![logo](https://github.com/Abirpaul007/Abirpaul007/blob/ca7d3fca860d1e9b00b99396548a7154ca8a8156/banner.png)
+![logo](https://github.com/Abirpaul007/Abirpaul007/blob/6057be6cf5ef1e8c5e560324ac49ba25b00bb824/bannergit.png)
 <h1 align="center">Hi 👋, I'm Abir Paul</h1>
 <h3 align="center">Pursuing B. Tech in Information Technology</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmh5NHRxNHZ5ZnVlcWs1d2Z4ejU5Yzk5NGV2OXRoYmhwYjh3ejBzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" >
