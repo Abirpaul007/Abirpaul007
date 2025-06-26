@@ -1,4 +1,4 @@
-![logo](Black Simple Geometric Discord Profile Banner.png)
+![logo](https://github.com/Abirpaul007/Abirpaul007/blob/46bc5948dd2c9ed740b114fccc1cfd108a88a6e1/Black%20Simple%20Geometric%20Discord%20Profile%20Banner.png)
 <h1 align="center">Hi 👋, I'm Abir Paul</h1>
 <h3 align="center">Pursuing B. Tech in Information Technology</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmh5NHRxNHZ5ZnVlcWs1d2Z4ejU5Yzk5NGV2OXRoYmhwYjh3ejBzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" >
